@@ -1,0 +1,4 @@
+#-*- mode: mandoku-view; -*-
+#+TITLE: 觀所緣緣論
+#+DATE: 2015-08-30 20:58:30.844429
+#+PROPERTY: JUAN 0
